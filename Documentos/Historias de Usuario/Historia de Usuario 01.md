@@ -31,8 +31,8 @@ Tiempo estimado> 3 días
 
 Espacio para anotar cualquier tarea adicional, notas, o dependencias relacionadas con esta historia de usuario.
 
-- [ ] Tarea adicional 1
-- [ ] Tarea adicional 2
+- [x] Tarea adicional 1
+- [x] Tarea adicional 2
 - [ ] Tarea adicional 3
 
 ## Prototipos/Anexos
